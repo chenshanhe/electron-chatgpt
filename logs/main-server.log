@@ -1,0 +1,536 @@
+[2023-08-31 11:00:09.296] [info]  logger init done and start init app
+[2023-08-31 11:00:09.302] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:00:09.302] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:00:09.302] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:00:09.309] [error] Error: config file /Users/chensh/DEV/project/out-project/electron/myElectron/etc/electron.conf can not find
+    at new ConfigManager (webpack:///./src/core/config.js?:24:13)
+    at Object.init (webpack:///./src/core/config.js?:132:9)
+    at Module.init (webpack:///./src/core/core.js?:23:29)
+    at App.eval (webpack:///./src/background.js?:80:14)
+    at App.emit (events.js:315:20)
+[2023-08-31 11:00:09.310] [info]  now init has done
+[2023-08-31 11:00:09.310] [info]  will create window
+[2023-08-31 11:00:14.782] [info]  logger init done and start init app
+[2023-08-31 11:00:14.785] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:00:14.785] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:00:14.785] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:00:14.792] [error] Error: config file /Users/chensh/DEV/project/out-project/electron/myElectron/etc/electron.conf can not find
+    at new ConfigManager (webpack:///./src/core/config.js?:24:13)
+    at Object.init (webpack:///./src/core/config.js?:132:9)
+    at Module.init (webpack:///./src/core/core.js?:23:29)
+    at App.eval (webpack:///./src/background.js?:80:14)
+    at App.emit (events.js:315:20)
+[2023-08-31 11:00:14.792] [info]  now init has done
+[2023-08-31 11:00:14.793] [info]  will create window
+[2023-08-31 11:00:33.591] [info]  logger init done and start init app
+[2023-08-31 11:00:33.594] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:00:33.594] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:00:33.594] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:00:33.602] [info]  now init has done
+[2023-08-31 11:00:33.602] [info]  will create window
+[2023-08-31 11:02:07.942] [info]  logger init done and start init app
+[2023-08-31 11:02:07.947] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:02:07.947] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:02:07.947] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:02:07.956] [info]  now init has done
+[2023-08-31 11:02:07.956] [info]  will create window
+[2023-08-31 11:03:11.318] [info]  logger init done and start init app
+[2023-08-31 11:03:11.322] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:03:11.323] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:03:11.323] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:03:11.332] [info]  now init has done
+[2023-08-31 11:03:11.332] [info]  will create window
+[2023-08-31 11:03:51.643] [info]  logger init done and start init app
+[2023-08-31 11:03:51.646] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:03:51.646] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:03:51.646] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:03:51.654] [info]  now init has done
+[2023-08-31 11:03:51.654] [info]  will create window
+[2023-08-31 11:04:10.448] [info]  logger init done and start init app
+[2023-08-31 11:04:10.450] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:04:10.450] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:04:10.450] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:04:10.458] [info]  now init has done
+[2023-08-31 11:04:10.458] [info]  will create window
+[2023-08-31 11:09:03.303] [info]  logger init done and start init app
+[2023-08-31 11:09:03.308] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:09:03.308] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:09:03.308] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:09:03.316] [info]  now init has done
+[2023-08-31 11:09:03.317] [info]  will create window
+[2023-08-31 11:10:00.932] [info]  logger init done and start init app
+[2023-08-31 11:10:00.934] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:10:00.935] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:10:00.935] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:10:00.943] [info]  now init has done
+[2023-08-31 11:10:00.943] [info]  will create window
+[2023-08-31 11:10:26.609] [info]  logger init done and start init app
+[2023-08-31 11:10:26.611] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:10:26.611] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:10:26.612] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:10:26.619] [info]  now init has done
+[2023-08-31 11:10:26.619] [info]  will create window
+[2023-08-31 11:10:45.048] [info]  logger init done and start init app
+[2023-08-31 11:10:45.051] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:10:45.051] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:10:45.051] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:10:45.059] [info]  now init has done
+[2023-08-31 11:10:45.060] [info]  will create window
+[2023-08-31 11:29:00.514] [info]  logger init done and start init app
+[2023-08-31 11:29:00.519] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:29:00.519] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:29:00.519] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:30:20.321] [info]  logger init done and start init app
+[2023-08-31 11:30:20.323] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:30:20.324] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:30:20.324] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:31:12.636] [info]  logger init done and start init app
+[2023-08-31 11:31:12.639] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:31:12.639] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:31:12.639] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:33:58.709] [info]  logger init done and start init app
+[2023-08-31 11:33:58.712] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:33:58.712] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:33:58.712] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:33:58.721] [info]  now init has done
+[2023-08-31 11:33:58.721] [info]  will create window
+[2023-08-31 11:36:43.310] [info]  logger init done and start init app
+[2023-08-31 11:36:43.315] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:36:43.315] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:36:43.316] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:36:43.324] [info]  now init has done
+[2023-08-31 11:36:43.324] [info]  will create window
+[2023-08-31 11:37:41.272] [info]  logger init done and start init app
+[2023-08-31 11:37:41.274] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:37:41.274] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:37:41.275] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:37:41.283] [info]  now init has done
+[2023-08-31 11:37:41.283] [info]  will create window
+[2023-08-31 11:38:04.134] [info]  logger init done and start init app
+[2023-08-31 11:38:04.136] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:38:04.136] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:38:04.137] [info]  HELLO,THIS IS rig-nf-agent-server undefined
+[2023-08-31 11:38:04.145] [info]  now init has done
+[2023-08-31 11:38:04.145] [info]  will create window
+[2023-08-31 11:39:18.059] [info]  logger init done and start init app
+[2023-08-31 11:39:18.061] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:39:18.062] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:39:18.062] [info]  HELLO,THIS IS [object Object] undefined
+[2023-08-31 11:39:18.070] [info]  now init has done
+[2023-08-31 11:39:18.070] [info]  will create window
+[2023-08-31 11:39:30.552] [info]  logger init done and start init app
+[2023-08-31 11:39:30.554] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:39:30.554] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:39:30.554] [info]  HELLO,THIS IS [object Object] undefined
+[2023-08-31 11:39:30.562] [info]  now init has done
+[2023-08-31 11:39:30.563] [info]  will create window
+[2023-08-31 11:39:56.254] [info]  logger init done and start init app
+[2023-08-31 11:39:56.256] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:39:56.256] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:39:56.256] [info]  HELLO,THIS IS 1 undefined {
+  NVM_INC: '/Users/chensh/.nvm/versions/node/v16.13.2/include/node',
+  npm_config_leveldown_binary_host_mirror: 'https://npm.taobao.org/mirrors/leveldown/v{version}',
+  MANPATH: '/Users/chensh/.nvm/versions/node/v16.13.2/share/man:/Users/chensh/.nvm/versions/node/v17.9.1/share/man:/Users/chensh/.nvm/versions/node/v18.16.1/share/man:/Users/chensh/.nvm/versions/node/v8.17.0/share/man:/usr/share/man:/usr/local/share/man:/Users/chensh/.nvm/versions/node/v8.17.0/share/man:/opt/homebrew/share/man:',
+  NVMW_NODEJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/node',
+  npm_config_couchbase_binary_host_mirror: 'https://npm.taobao.org/mirrors/couchbase/v{version}',
+  TERM_PROGRAM: 'vscode',
+  NODE: '/Users/chensh/.nvm/versions/node/v16.13.2/bin/node',
+  INIT_CWD: '/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init',
+  NVM_CD_FLAGS: '-q',
+  npm_config_version_git_tag: 'true',
+  SHELL: '/bin/zsh',
+  TERM: 'xterm-256color',
+  npm_config_flow_bin_binary_host_mirror: 'https://npm.taobao.org/mirrors/flow/v',
+  npm_config_zmq_prebuilt_binary_host_mirror: 'https://npm.taobao.org/mirrors/zmq-prebuilt/v{version}',
+  HOMEBREW_BOTTLE_DOMAIN: 'https://mirrors.ustc.edu.cn/homebrew-bottles/bottles',
+  npm_config_gl_binary_host_mirror: 'https://npm.taobao.org/mirrors/gl/v{version}',
+  HOMEBREW_REPOSITORY: '/opt/homebrew',
+  PYTHON_PATH: '/usr/local/bin/python',
+  TMPDIR: '/var/folders/wn/rhkt5xqd6xbbr99c3pcsvpgr0000gn/T/',
+  npm_package_scripts_electron_build: 'vue-cli-service electron:build',
+  npm_config_init_license: 'MIT',
+  TERM_PROGRAM_VERSION: '1.81.1',
+  npm_config_chromedriver_cdnurl: 'https://npm.taobao.org/mirrors/chromedriver',
+  npm_config_grpc_node_binary_host_mirror: 'https://npm.taobao.org/mirrors',
+  MallocNanoZone: '0',
+  ORIGINAL_XDG_CURRENT_DESKTOP: 'undefined',
+  ZDOTDIR: '/Users/chensh',
+  NODIST_IOJS_MIRROR: 'https://npm.taobao.org/mirrors/iojs',
+  npm_config_sodium_prebuilt_binary_host_mirror: 'https://npm.taobao.org/mirrors/sodium-prebuilt/v{version}',
+  npm_package_private: 'true',
+  npm_config_registry: 'https://registry.yarnpkg.com',
+  NVMW_NPM_MIRROR: 'https://npm.taobao.org/mirrors/npm',
+  npm_package_readmeFilename: 'README.md',
+  USER: 'chensh',
+  NVM_DIR: '/Users/chensh/.nvm',
+  npm_package_description: '## Project setup ``` yarn install ```',
+  HOMEBREW_SHELLENV_PREFIX: '/opt/homebrew',
+  npm_config_phantomjs_cdnurl: 'https://npm.taobao.org/mirrors/phantomjs',
+  COMMAND_MODE: 'unix2003',
+  IOJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/iojs',
+  npm_package_scripts_electron_serve: 'vue-cli-service electron:serve',
+  SSH_AUTH_SOCK: '/private/tmp/com.apple.launchd.TGbMTGKNhB/Listeners',
+  npm_package_devDependencies__vue_cli_service: '~5.0.0',
+  npm_package_dependencies_lodash: '^4.17.21',
+  __CF_USER_TEXT_ENCODING: '0x1F5:0x19:0x34',
+  HOMEBREW_NO_AUTO_UPDATE: 'true',
+  npm_config_node_tk5_binary_host_mirror: 'https://npm.taobao.org/mirrors/node-tk5/v{version}',
+  npm_config_utp_native_binary_host_mirror: 'https://npm.taobao.org/mirrors/utp-native/v{version}',
+  npm_execpath: '/Users/chensh/.nvm/versions/node/v16.13.2/lib/node_modules/yarn/bin/yarn.js',
+  npm_config_hackrf_binary_host_mirror: 'https://npm.taobao.org/mirrors/hackrf/v{version}',
+  PATH: '/var/folders/wn/rhkt5xqd6xbbr99c3pcsvpgr0000gn/T/yarn--1693453193373-0.5493466280863295:/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/node_modules/.bin:/Users/chensh/.config/yarn/link/node_modules/.bin:/Users/chensh/.yarn/bin:/Users/chensh/.nvm/versions/node/v16.13.2/libexec/lib/node_modules/npm/bin/node-gyp-bin:/Users/chensh/.nvm/versions/node/v16.13.2/lib/node_modules/npm/bin/node-gyp-bin:/Users/chensh/.nvm/versions/node/v16.13.2/bin/node_modules/npm/bin/node-gyp-bin:/Users/chensh/.nvm/versions/node/v16.13.2/bin:/Users/chensh/.nvm/versions/node/v17.9.1/bin:/Users/chensh/.nvm/versions/node/v18.16.1/bin:/Users/chensh/.nvm/versions/node/v8.17.0/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/chensh/.nvm/versions/node/v8.17.0/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/opt/homebrew/bin:/opt/homebrew/sbin',
+  npm_config_argv: '{"remain":[],"cooked":["run","electron:serve"],"original":["electron:serve"]}',
+  npm_package_scripts_postinstall: 'electron-builder install-app-deps',
+  _: '/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/node_modules/.bin/vue-cli-service',
+  npm_package_dependencies_vue: '^3.2.13',
+  npm_config_mknod_binary_host_mirror: 'https://npm.taobao.org/mirrors/mknod/v{version}',
+  __CFBundleIdentifier: 'com.microsoft.VSCode',
+  NVM_NODEJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/node',
+  USER_ZDOTDIR: '/Users/chensh',
+  npm_package_devDependencies__vue_cli_plugin_router: '~5.0.0',
+  npm_config_sqlite3_binary_site: 'https://npm.taobao.org/mirrors/sqlite3',
+  PWD: '/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init',
+  NODIST_NODE_MIRROR: 'https://npm.taobao.org/mirrors/node',
+  npm_package_dependencies_core_js: '^3.8.3',
+  npm_package_scripts_postuninstall: 'electron-builder install-app-deps',
+  npm_config_node_sqlite3_binary_host_mirror: 'https://npm.taobao.org/mirrors',
+  npm_lifecycle_event: 'electron:serve',
+  LANG: 'zh_CN.UTF-8',
+  npm_package_dependencies_electron_log: '^4.4.8',
+  npm_package_name: 'electron-init',
+  npm_package_devDependencies_electron_devtools_installer: '^3.1.0',
+  npm_package_scripts_build: 'vue-cli-service build',
+  npm_config_version_commit_hooks: 'true',
+  npm_config_nodegit_binary_host_mirror: 'https://npm.taobao.org/mirrors/nodegit/v{version}/',
+  XPC_FLAGS: '0x0',
+  VSCODE_GIT_ASKPASS_EXTRA_ARGS: '--ms-enable-electron-run-as-node',
+  npm_package_devDependencies__vue_cli_plugin_vuex: '~5.0.0',
+  npm_config_bin_links: 'true',
+  npm_config_rabin_binary_host_mirror: 'https://npm.taobao.org/mirrors/rabin/v{version}',
+  npm_config_electron_mirror: 'https://npm.taobao.org/mirrors/electron/',
+  npm_config_debug_binary_host_mirror: 'https://npm.taobao.org/mirrors/node-inspector',
+  npm_package_main: 'background.js',
+  XPC_SERVICE_NAME: '0',
+  npm_package_version: '0.1.0',
+  npm_config_sass_binary_site: 'https://npm.taobao.org/mirrors/node-sass',
+  VSCODE_INJECTION: '1',
+  HOME: '/Users/chensh',
+  SHLVL: '2',
+  NVMW_IOJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/iojs',
+  npm_package_devDependencies__vue_cli_plugin_babel: '~5.0.0',
+  VSCODE_GIT_ASKPASS_MAIN: '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js',
+  npm_package_scripts_serve: 'vue-cli-service serve',
+  npm_config_save_prefix: '^',
+  npm_config_strict_ssl: 'true',
+  HOMEBREW_PREFIX: '/opt/homebrew',
+  npm_package_browserslist_3: 'not ie 11',
+  npm_config_version_git_message: 'v%s',
+  npm_package_browserslist_2: 'not dead',
+  npm_config_leveldown_hyper_binary_host_mirror: 'https://npm.taobao.org/mirrors/leveldown-hyper/v{version}',
+  npm_package_browserslist_1: 'last 2 versions',
+  npm_config_disturl: 'https://npm.taobao.org/dist',
+  LOGNAME: 'chensh',
+  YARN_WRAP_OUTPUT: 'false',
+  npm_package_browserslist_0: '> 1%',
+  NODEJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/node',
+  npm_lifecycle_script: 'vue-cli-service electron:serve',
+  VSCODE_GIT_IPC_HANDLE: '/var/folders/wn/rhkt5xqd6xbbr99c3pcsvpgr0000gn/T/vscode-git-ae030ad9eb.sock',
+  npm_package_dependencies_vuex: '^4.0.0',
+  NVM_BIN: '/Users/chensh/.nvm/versions/node/v16.13.2/bin',
+  NVM_IOJS_ORG_MIRROR: 'https://npm.taobao.org/mirrors/iojs',
+  npm_package_devDependencies_vue_cli_plugin_electron_builder: '~2.1.1',
+  npm_config_version_git_sign: '',
+  npm_config_ignore_scripts: '',
+  npm_config_user_agent: 'yarn/1.22.19 npm/? node/v16.13.2 darwin arm64',
+  HOMEBREW_CELLAR: '/opt/homebrew/Cellar',
+  INFOPATH: '/opt/homebrew/share/info:',
+  GIT_ASKPASS: '/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh',
+  VSCODE_GIT_ASKPASS_NODE: '/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)',
+  npm_config_git4win_mirror: 'https://npm.taobao.org/mirrors/git-for-windows',
+  npm_package_dependencies_ini_config_parser: '^1.0.4',
+  npm_config_init_version: '1.0.0',
+  npm_config_ignore_optional: '',
+  npm_config_fse_binary_host_mirror: 'https://npm.taobao.org/mirrors/fsevents',
+  DEBUG: 'windows',
+  npm_package_dependencies_vue_router: '^4.0.3',
+  npm_config_operadriver_cdnurl: 'https://npm.taobao.org/mirrors/operadriver',
+  npm_config_profiler_binary_host_mirror: 'https://npm.taobao.org/mirrors/node-inspector/',
+  npm_config_python_mirror: 'https://npm.taobao.org/mirrors/python',
+  npm_config_utf_8_validate_binary_host_mirror: 'https://npm.taobao.org/mirrors/utf-8-validate/v{version}',
+  npm_package_devDependencies_electron: '^13.0.0',
+  npm_config_fuse_bindings_binary_host_mirror: 'https://npm.taobao.org/mirrors/fuse-bindings/v{version}',
+  COLORTERM: 'truecolor',
+  npm_node_execpath: '/Users/chensh/.nvm/versions/node/v16.13.2/bin/node',
+  npm_config_version_tag_prefix: 'v',
+  npm_config_puppeteer_download_host: 'https://npm.taobao.org/mirrors',
+  NODE_ENV: 'development',
+  BABEL_ENV: 'development',
+  VUE_CLI_TRANSPILE_BABEL_RUNTIME: 'true',
+  IS_ELECTRON: 'true',
+  WEBPACK_SERVE: 'true',
+  VUE_APP_NODE_MODULES_PATH: 'false',
+  VUE_CLI_ENTRY_FILES: '["/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/src/main.js"]',
+  ELECTRON_DISABLE_SECURITY_WARNINGS: 'true',
+  resourceUrl: '/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource',
+  appUrl: '/Users/chensh/DEV/project/out-project/electron/myElectron/electron-init'
+}
+[2023-08-31 11:39:56.268] [info]  now init has done
+[2023-08-31 11:39:56.268] [info]  will create window
+[2023-08-31 11:40:47.591] [info]  logger init done and start init app
+[2023-08-31 11:40:47.593] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:40:47.593] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:40:47.593] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 11:40:47.601] [info]  now init has done
+[2023-08-31 11:40:47.602] [info]  will create window
+[2023-08-31 11:42:03.580] [info]  logger init done and start init app
+[2023-08-31 11:42:03.583] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:42:03.583] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:42:03.583] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 11:42:03.591] [info]  now init has done
+[2023-08-31 11:42:03.592] [info]  will create window
+[2023-08-31 11:47:09.990] [info]  logger init done and start init app
+[2023-08-31 11:47:09.992] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:47:09.993] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:47:09.993] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 11:47:10.001] [info]  now init has done
+[2023-08-31 11:47:10.001] [info]  will create window
+[2023-08-31 11:50:43.711] [info]  logger init done and start init app
+[2023-08-31 11:50:43.714] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:50:43.714] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:50:43.714] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 11:50:43.722] [info]  now init has done
+[2023-08-31 11:50:43.723] [info]  will create window
+[2023-08-31 11:51:21.254] [info]  logger init done and start init app
+[2023-08-31 11:51:21.257] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 11:51:21.257] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 11:51:21.257] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 11:51:21.265] [info]  now init has done
+[2023-08-31 11:51:21.266] [info]  will create window
+[2023-08-31 14:07:10.227] [info]  logger init done and start init app
+[2023-08-31 14:07:10.232] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:07:10.232] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:07:10.232] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:07:10.241] [info]  now init has done
+[2023-08-31 14:07:10.241] [info]  will create window
+[2023-08-31 14:08:52.459] [info]  logger init done and start init app
+[2023-08-31 14:08:52.464] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:08:52.464] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:08:52.464] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:08:52.473] [info]  now init has done
+[2023-08-31 14:08:52.473] [info]  will create window
+[2023-08-31 14:09:09.608] [info]  logger init done and start init app
+[2023-08-31 14:09:09.611] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:09:09.611] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:09:09.611] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:09:09.619] [info]  now init has done
+[2023-08-31 14:09:09.620] [info]  will create window
+[2023-08-31 14:11:56.901] [info]  logger init done and start init app
+[2023-08-31 14:11:56.906] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:11:56.906] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:11:56.906] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:11:56.915] [info]  now init has done
+[2023-08-31 14:11:56.915] [info]  will create window
+[2023-08-31 14:12:15.472] [info]  logger init done and start init app
+[2023-08-31 14:12:15.475] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:12:15.475] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:12:15.476] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:12:15.484] [info]  now init has done
+[2023-08-31 14:12:15.485] [info]  will create window
+[2023-08-31 14:12:41.823] [info]  logger init done and start init app
+[2023-08-31 14:12:41.825] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:12:41.825] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:12:41.825] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:12:41.833] [info]  now init has done
+[2023-08-31 14:12:41.834] [info]  will create window
+[2023-08-31 14:13:18.934] [info]  logger init done and start init app
+[2023-08-31 14:13:18.937] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:13:18.937] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:13:18.937] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:13:18.945] [info]  now init has done
+[2023-08-31 14:13:18.946] [info]  will create window
+[2023-08-31 14:13:56.617] [info]  logger init done and start init app
+[2023-08-31 14:13:56.620] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:13:56.620] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:13:56.620] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:13:56.628] [info]  now init has done
+[2023-08-31 14:13:56.629] [info]  will create window
+[2023-08-31 14:22:42.959] [info]  logger init done and start init app
+[2023-08-31 14:22:42.961] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:22:42.961] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:22:42.961] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:22:42.969] [info]  now init has done
+[2023-08-31 14:22:42.970] [info]  will create window
+[2023-08-31 14:23:05.073] [info]  logger init done and start init app
+[2023-08-31 14:23:05.079] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:23:05.079] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:23:05.079] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:23:05.089] [info]  now init has done
+[2023-08-31 14:23:05.089] [info]  will create window
+[2023-08-31 14:28:18.170] [info]  logger init done and start init app
+[2023-08-31 14:28:18.175] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:28:18.175] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:28:18.175] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:28:18.184] [info]  now init has done
+[2023-08-31 14:28:18.184] [info]  will create window
+[2023-08-31 14:30:13.236] [info]  logger init done and start init app
+[2023-08-31 14:30:13.241] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:30:13.241] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:30:13.241] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:30:13.250] [info]  now init has done
+[2023-08-31 14:30:13.250] [info]  will create window
+[2023-08-31 14:37:03.367] [info]  logger init done and start init app
+[2023-08-31 14:37:03.369] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:37:03.370] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:37:03.370] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:37:03.378] [info]  now init has done
+[2023-08-31 14:37:03.378] [info]  will create window
+[2023-08-31 14:37:27.555] [info]  logger init done and start init app
+[2023-08-31 14:37:27.558] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:37:27.558] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:37:27.558] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:37:27.566] [info]  now init has done
+[2023-08-31 14:37:27.566] [info]  will create window
+[2023-08-31 14:39:11.900] [info]  logger init done and start init app
+[2023-08-31 14:39:11.903] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:39:11.903] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:39:11.903] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:39:11.911] [info]  now init has done
+[2023-08-31 14:39:11.912] [info]  will create window
+[2023-08-31 14:41:56.147] [info]  logger init done and start init app
+[2023-08-31 14:41:56.150] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:41:56.150] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:41:56.150] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:41:56.159] [info]  now init has done
+[2023-08-31 14:41:56.159] [info]  will create window
+[2023-08-31 14:42:31.214] [info]  logger init done and start init app
+[2023-08-31 14:42:31.217] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:42:31.217] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:42:31.217] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:42:31.225] [info]  now init has done
+[2023-08-31 14:42:31.226] [info]  will create window
+[2023-08-31 14:45:08.831] [info]  logger init done and start init app
+[2023-08-31 14:45:08.836] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:45:08.837] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:45:08.837] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:45:08.846] [info]  now init has done
+[2023-08-31 14:45:08.846] [info]  will create window
+[2023-08-31 14:47:33.364] [info]  logger init done and start init app
+[2023-08-31 14:47:33.366] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:47:33.366] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:47:33.367] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:47:33.375] [info]  now init has done
+[2023-08-31 14:47:33.375] [info]  will create window
+[2023-08-31 14:50:40.575] [info]  logger init done and start init app
+[2023-08-31 14:50:40.577] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:50:40.578] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:50:40.578] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:50:40.586] [info]  now init has done
+[2023-08-31 14:50:40.586] [info]  will create window
+[2023-08-31 14:53:41.569] [info]  logger init done and start init app
+[2023-08-31 14:53:41.571] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:53:41.571] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:53:41.572] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:53:41.580] [info]  now init has done
+[2023-08-31 14:53:41.580] [info]  will create window
+[2023-08-31 14:54:10.362] [info]  logger init done and start init app
+[2023-08-31 14:54:10.364] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:54:10.364] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:54:10.364] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:54:10.373] [info]  now init has done
+[2023-08-31 14:54:10.373] [info]  will create window
+[2023-08-31 14:54:22.732] [info]  logger init done and start init app
+[2023-08-31 14:54:22.735] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 14:54:22.735] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 14:54:22.735] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 14:54:22.744] [info]  now init has done
+[2023-08-31 14:54:22.744] [info]  will create window
+[2023-08-31 15:32:25.392] [info]  logger init done and start init app
+[2023-08-31 15:32:25.398] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 15:32:25.398] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 15:32:25.398] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 15:32:25.414] [info]  now init has done
+[2023-08-31 15:32:25.414] [info]  will create window
+[2023-08-31 15:40:01.928] [info]  logger init done and start init app
+[2023-08-31 15:40:01.931] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 15:40:01.931] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 15:40:01.931] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 15:40:01.946] [info]  now init has done
+[2023-08-31 15:40:01.946] [info]  will create window
+[2023-08-31 15:45:56.075] [info]  logger init done and start init app
+[2023-08-31 15:45:56.079] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 15:45:56.080] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 15:45:56.080] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 15:45:56.096] [info]  now init has done
+[2023-08-31 15:45:56.096] [info]  will create window
+[2023-08-31 15:58:39.417] [info]  logger init done and start init app
+[2023-08-31 15:58:39.423] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 15:58:39.423] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 15:58:39.423] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 15:58:39.440] [info]  now init has done
+[2023-08-31 15:58:39.441] [info]  will create window
+[2023-08-31 15:58:47.667] [info]  logger init done and start init app
+[2023-08-31 15:58:47.669] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 15:58:47.669] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 15:58:47.670] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 15:58:47.686] [info]  now init has done
+[2023-08-31 15:58:47.686] [info]  will create window
+[2023-08-31 16:02:26.259] [info]  logger init done and start init app
+[2023-08-31 16:02:26.262] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:02:26.262] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:02:26.262] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:02:26.277] [info]  now init has done
+[2023-08-31 16:02:26.278] [info]  will create window
+[2023-08-31 16:02:52.107] [info]  logger init done and start init app
+[2023-08-31 16:02:52.110] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:02:52.111] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:02:52.111] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:02:52.126] [info]  now init has done
+[2023-08-31 16:02:52.126] [info]  will create window
+[2023-08-31 16:04:20.540] [info]  logger init done and start init app
+[2023-08-31 16:04:20.547] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:04:20.547] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:04:20.547] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:04:20.564] [info]  now init has done
+[2023-08-31 16:04:20.564] [info]  will create window
+[2023-08-31 16:12:47.848] [info]  logger init done and start init app
+[2023-08-31 16:12:47.854] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:12:47.854] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:12:47.854] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:12:47.870] [info]  now init has done
+[2023-08-31 16:12:47.870] [info]  will create window
+[2023-08-31 16:14:57.582] [info]  logger init done and start init app
+[2023-08-31 16:14:57.588] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:14:57.588] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:14:57.588] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:14:57.604] [info]  now init has done
+[2023-08-31 16:14:57.605] [info]  will create window
+[2023-08-31 16:16:39.908] [info]  logger init done and start init app
+[2023-08-31 16:16:39.912] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:16:39.912] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:16:39.913] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:16:39.928] [info]  now init has done
+[2023-08-31 16:16:39.928] [info]  will create window
+[2023-08-31 16:19:35.150] [info]  logger init done and start init app
+[2023-08-31 16:19:35.152] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:19:35.153] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:19:35.153] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:19:35.168] [info]  now init has done
+[2023-08-31 16:19:35.168] [info]  will create window
+[2023-08-31 16:21:17.216] [info]  logger init done and start init app
+[2023-08-31 16:21:17.219] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:21:17.219] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:21:17.219] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:21:17.234] [info]  now init has done
+[2023-08-31 16:21:17.234] [info]  will create window
+[2023-08-31 16:21:40.106] [info]  logger init done and start init app
+[2023-08-31 16:21:40.109] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init
+[2023-08-31 16:21:40.109] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-init/resource
+[2023-08-31 16:21:40.110] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:21:40.124] [info]  now init has done
+[2023-08-31 16:21:40.125] [info]  will create window
+[2023-08-31 16:42:33.370] [info]  logger init done and start init app
+[2023-08-31 16:42:33.377] [info]  appUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-chatgpt
+[2023-08-31 16:42:33.377] [info]  resourceUrl: /Users/chensh/DEV/project/out-project/electron/myElectron/electron-chatgpt/resource
+[2023-08-31 16:42:33.377] [info]  HELLO,THIS IS electron-init undefined
+[2023-08-31 16:42:33.393] [info]  now init has done
+[2023-08-31 16:42:33.394] [info]  will create window
